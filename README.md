@@ -31,4 +31,4 @@ The analysis aims to provide insights into how player salaries correlate with th
 
 # Getting Started
 To set up the project and run the analysis
-# clone the Repository :https://github.com/krishnaaprasad1516/IPL-DATA-ANALYSIS
+- clone the Repository :https://github.com/krishnaaprasad1516/IPL-DATA-ANALYSIS
